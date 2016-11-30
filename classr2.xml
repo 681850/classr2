@@ -42,25 +42,25 @@
                                       </block>
                                     </value>
                                     <next>
-                                      <block type="movement_forward" id="60">
+                                      <block type="movement_forward" id="15">
                                         <next>
-                                          <block type="robot_delay" id="62" inline="true">
+                                          <block type="robot_delay" id="16" inline="true">
                                             <value name="DELAY">
-                                              <block type="math_number" id="69">
+                                              <block type="math_number" id="17">
                                                 <field name="NUM">1500</field>
                                               </block>
                                             </value>
                                             <next>
-                                              <block type="movement_right" id="24">
+                                              <block type="movement_right" id="18">
                                                 <next>
-                                                  <block type="robot_delay" id="32" inline="true">
+                                                  <block type="robot_delay" id="19" inline="true">
                                                     <value name="DELAY">
-                                                      <block type="math_number" id="40">
+                                                      <block type="math_number" id="20">
                                                         <field name="NUM">1375</field>
                                                       </block>
                                                     </value>
                                                     <next>
-                                                      <block type="movement_stop" id="50"></block>
+                                                      <block type="movement_stop" id="21"></block>
                                                     </next>
                                                   </block>
                                                 </next>
